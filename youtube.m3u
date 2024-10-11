@@ -567,7 +567,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728681149/ei/XEAJZ5-OPPmW2_gPysbL-Ao/ip/172.183.51.112/id/R7vrbiDi0Tc.21/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241481/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxZSdbPkgGoRHlhuqTvPmCuclTvBj0YkBMARqGyq0G2vGkEYKLcm7AMr5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgd_8SZECDle_F96H8VrDOP-6g_wIh_5q4URfH4DzUeTYCIFzGRBOqATyisHgQgwX3uDgQXSEwyskZvRFOF22hd-90/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -627,7 +627,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728681172/ei/dEAJZ621E7eV2_gPuououQQ/ip/172.183.51.112/id/VQBDFTZjXOg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303816/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxUJnXPyLumod137dDNQbWBJnjozlRUzQwkJpkwjk8N67x0KjelU6TbIb/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP_QxCwHz7HSfnBMrg0gY2a3ldrfbD7KnxyY7S6iOOHsAiAk8ujhmN7bQ9Kz1uIcry_BmOSIsZ344xWuLm1WSZ8Jng%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
