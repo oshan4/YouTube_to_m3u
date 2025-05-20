@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747733880/ei/GPkraJXqEJOvlu8P4pfYgQk/ip/172.183.76.166/id/Wi8_9_AQ6oU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbLzzUzHbuBmL0nHVuNF7Stf40CAKkzMwNdrJ1uJIjWGk6D9-MfV5auL-TtyI6LF8Tve4iTMwR2/spc/wk1kZiRKWZmzVm3MIu57qo7FKNZKCJAuWvWDr5sejJpaVZoZFYsoCjlKtqO_8FY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOn7Z3uzl9IaivbXNZy1WeX38gND4Lpt4bJBt73VwYaMCIQDVbRIGPET-xLS8zPZJf-L06LnJTZ3rIqBrPAjDRvvejQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -111,7 +111,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747733899/ei/K_kraIrbMIzpybgPurieqQI/ip/172.183.76.166/id/uTXHHPESVaE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYYkRwRL1B4eSfs95D-7fbD-bIK4s-aT4vtV_z_8Lw54SuP7ZgBpJllLbUlAB1dDd4PX-Odb8It/spc/wk1kZoZc_KR0m5-scNOpYEXr3rjn1TF6sqjMx8kqGkzvqtUHUtja4D7_ScOwuc8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeFKeMPY4L8A1XCyBG3TBHP2pC30USJwUc9d9NEWJbK0CIQC3NWIDDPFGb3MxIOGGCtWivKujTZkCzrc43tIJgQGtXg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", NewsFirst Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -261,7 +261,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747733947/ei/W_kraLX6LPeX2_gP6ciAmQs/ip/172.183.76.166/id/9UMxZofMNbA.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474946/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbxke4QAhLr5rSVLBYN74XJZBUR5zHvWoRsTDqvyz1gmq4bzY7_7RB5BOpsFYwLLs635iFBc3oZ/spc/wk1kZnUSYjB1BcyFQHuw1LuqYr3Kc1Cdx9kQnXi1y7J8UXMLQ33gsqrbKyMnKgc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKfPweT2yBWtRmY_okN504eoPkA8p3HJcMwyJxPWMmLoAiEA8pvZ7bjLH6eZ_iqNrp5lPKIeuqc1szaEWHi1iUVGa1k%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", ATV Canlı Yayını
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
