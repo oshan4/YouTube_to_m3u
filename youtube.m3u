@@ -351,7 +351,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Vocal Trance Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753240402/ei/8v5_aKmcE_OpkucPwrr7qA4/ip/20.55.87.145/id/DPXQG8S9Xwc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51530744/txs/51530741%2C51530742%2C51530743%2C51530744%2C51530745%2C51530746%2C51530747%2C51530748%2C51530749/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPgV2HDsbxOB7Jz3RSBLvOkhJ_vYvp25HnIqAz6Rp_YM8oQBnsMawkoKn3LkIVKyAKL9n1B7mXH/spc/l3OVKYejYzeagSpP_lzz7KAcTXjVftbBSQ45CZVmVGcs08mi3hWyxZKLVCxPzvLh-gY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWNGG4u3GWGxyC4bfZ5x5V-UzMqnGh5Al9WZJC1BgelICIQD-Qlon559o7aUNn8W-mKrnf0LPSUXOSMYEb7Wy-o3OKA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Chill Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
