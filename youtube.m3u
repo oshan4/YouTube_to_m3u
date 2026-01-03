@@ -105,10 +105,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433914/ei/WpJYabOaNvrYy_sP46rkwQM/ip/52.190.183.80/id/F0w7OEmbG8I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CmdyV76_NzA_XfKQew1s3tMQiIjvnahy1kqacSponB_f8b7RvfAgJy5wlZ6j0MGaxQGpaZiInr/spc/wH4QqxjEhF5HvTT9wrJjkzmQxARiejCbczzM-hr04CH9t1HgprrGFrtg-huLpyit6xo/vprv/1/go/1/ns/_Eq5hlDaJ1jbfIyxG1GSIxER/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/-TW9pZxrpYOnvM2m09/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGoTvC_sjfgzMYh6Nswg6_t9_kUCyEZnfbfw1hgpY9mMCICXojy-TTr2asukl73kZjhZlisKAPthy4MjHvszp7pjM/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433916/ei/XJJYafP9GZyJy_sPr7_UiQk/ip/52.190.183.80/id/2Sy00lVR0OM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3BfYHDKCYWBPP0iBc6R2o8qUbPKKfFnP49EENcbCaRv7K4qQ_aQjj8GUmFkjVR76ulSsEIP0gE0/spc/wH4Qq4xWCtI9JYv02j_z1xAEFLVtEmkmtwysHV8GRbOFx43B3j4GWaCFmL802A3tdqg/vprv/1/go/1/ns/EBz8oFRyCUq8L8KUhDAZ-GoR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/mLNSbfY4vxH6shIfnH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKwxsiVlueEkhwrfE9LquyKGNcA7c9d0GXCAx7QHMU0aAiEAvpaJEtFvBusd2gPftpF-6SRxBJojN3KULfOThjNMnok%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433952/ei/gJJYab-sHNuO2_gPpbigoA0/ip/52.190.183.80/id/drhmo4XSVYA.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BGtWKyGk9eFNSrAg6dd4KPgm8iz7IRgn79iwfMEI6IZ-KcyjK-EZJHlfp-h_e-rqded3HVld3v/spc/wH4QqzolfgdZgzOhxDi2UXMDIofNsdwJwu13GV5jg7lZlK6e8s5K6rQNVnbu1sAB4oY/vprv/1/go/1/ns/0SDbZ77IoLL3dozeZK1qHjUR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/ddr3UK1jaki_rrp8d3/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOt0W1d51MGK9nDiDpNe2iiB6JgHvRejpBnIaSUPhwyyAiBHgtCdm-eYAWmCrC3Gh8tJiV1Dm9soWrdnuoS7Ltj4Sw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24 TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
