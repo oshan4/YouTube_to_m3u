@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769106530/ei/Ahhyac-uC6CYsfIPoeC6iAg/ip/52.190.183.83/id/tXRuaacO-ZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qpg1qKxtgwUb_79EKJpkw7t6IPRVISQLjq9WlZZJhxca6HC5WK6nGUrVDXtfLCup9-xJKz6bcj/spc/q5xjPIIhEFXH95EOIQYy1pCql0eOsGECV2R7BOVgeTr768RXUzeM9eXb8Ir1zKBuEkeUHA/vprv/1/go/1/ns/VCSO8E4EaTU8PraPH0TRN2QS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/CFCOeKaee4g6k2pfP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAN0g9caMBe0mVENlVCFQ1lRENv2hnZ9F6kn14fLtzx5nAiEAy-DMgdKh4RvL8I_zqDQLIZf8SUQ9mWb_jfJzu8KDIps%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -639,7 +639,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769106745/ei/2RhyafznDPCQsfIP_fG-iAc/ip/52.190.183.83/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AW-iu_piofgZHgVGgdofCPAyRzw8Lfj6jfIMu9RwOMxy_jUU2_1-HplHxtIrt9Fmddu-OPNLU5T2s8Ro/spc/q5xjPCqqzRpzeGZ7udmMm_V_ZX2qikfh_T9mpQRDa_fyWIvdIZgOhbk8kTerKpjtb3Y9lg/vprv/1/go/1/ns/v9nyG1VMTLT7Vp9H_-sKfqUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/Auxaus7uESJMCumhO/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgUwuqruMhHkWr7RMlv8onTAH9paQyF7r-Zt2u4QTACpACIDDZTVZUg5Oyp9Ac08cSoQPzV4oxzyGVGi_KkwMadzVk/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", Rangin Kaman
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
