@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772004011/ei/S06eadWyGsbay_sPw7WDyA8/ip/52.173.219.146/id/EvIZaz16DI0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AVNa5-zELXvENfzB1XdL4PSrYTQgD1P2e5oxn7pagO1_rTKLWUW0K-5uUAVq7Srmfd_wNlOGZSoTfFT3/spc/6dlaFHt0e6IBOXK4bepwE9NzRAmMTVWfUj2aBCqsSCBMvl8fIbU48_o5Xp_mZQ2QQ3GNshAprU0/vprv/1/go/1/ns/H3reqmOWKQb_iHP-COkTZjUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968%2C51791334/dover/11/n/vRL6-H3n3-4lSA3zMb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALeacjtBJN0-krDAqO9Aq1MsxKxceqeonz5q_95hz5PBAiEAo3k8YkkicSI7WJzdtv1LNM9vhD8QCylOxqrECI2rdF0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -552,7 +552,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772004189/ei/_U6eaZWIL9Xlir4PiYiMwAw/ip/52.173.219.146/id/lTF_JBS-oTA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zfaJCc4a81fW5B5xvPn4DnIVPN3_ojOhP6oZLXDZxZP_QmMOUaTTFsByQBrjLkKHl4vgu0_nAg/spc/6dlaFKDhMg2c3QEn7-5K-JqBqzFzs7kURy28GkTHWBaX91EyZ2PXqF8WXYyxhnH0-hS0Tg/vprv/1/go/1/ns/pHUjiAb_SFQivKZhahmoVC0S/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51791333/dover/11/n/nvigR0k7l7MHl77U4n/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgBnUoi8gC2XfB6g2_GjlbFHL7awUxfvGH6_AL469NzS0CIQD0ZRWYXr1hlRsizMUigai8zgHV7WmfKKQAmpfJlE5qrw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Bossa Nova Covers Popular Songs
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
