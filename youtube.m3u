@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775348950/ei/dljRaePKGpDkir4Pg8y_mQY/ip/57.151.128.240/id/F1m0ciwMs8c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828960/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLuIDShlauUMRo0TuzYuFFaSj0WYhjiEF-0nzbyESRuLDurTmAmNgMJeOn7SRh62MfaRtK9T9WG/spc/jlWavfSDBzmH7O8uoJnjZwhrro_R5TZVh7bM2Vcw1epZWOQLbviGzvQKk1xClSo9c5Tnog/vprv/1/go/1/ns/A1Z40bJhDetDKCELeUTaH2UU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/-eRhVOc2A6oFtb1dUFvb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgZcZr7bcRNqj01b7cVTMip4Luzo3T3ZCJqahcba91NKECICqp7_6CME75uZaFHrLrG0vB9QS9fgndsWnHqwG-szIq/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -261,7 +261,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775349002/ei/qljRaZPjKrOkir4PgsG_8AM/ip/57.151.128.240/id/9UMxZofMNbA.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLXZwotX5ns9aMeID3Vm_Nvi6HXo_ASdUppoltdC_VMu4_YW5AQDcq3lOySH1zXiGUt0GZZcc7Y/spc/jlWavZGLALmFsydo-UEJzkLYycq5VTVyKYgHaXzbudbeNT-mGydjgLgt67KyJYaygvsNRQ/vprv/1/go/1/ns/rIUo9Elvxksp10VRNI_t2TEU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/2aSN9j7g71LFFwSrE7fX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAO0O1VZC08JoR0IOHmF6Ody1kd__Ynf-Kd0DXqTQEVGAAiEA325XIJyY72gwcNnx-SFarY35RaHEQR7opTSlM8zFCoY%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Türk" tvg-logo="" tvg-id="", ATV Canlı Yayını
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -567,7 +567,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775359511/ei/t4HRadKZLfjcybgPls3PGA/ip/64.236.131.241/id/T4XZmMPQ9Kw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGK1WCBWahoxp9piN6ly30weVEwGuINZLX3_0OFDUhpZZcIEfAKrQ9_r7yux4sa-Y47sXwUY5GAJ/spc/jlWavRjkmu9gIjIELBdZ1azfCGdZN92cr2vhJ0lXvYFFirk59GivcUH4Kv8gesnqIo9lcw/vprv/1/go/1/ns/X35YrxADakt1NuMEBk2nac0U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/PkhsMdSAfGwTrCzN3N8A/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKzy8zuxuGVAXwBXu8lr2dWIeEgmBsCVz-YjRt0xq1ACAiBr-MYYYz8kkm48F4J9WsjlxOUW2J_hMnXXNTSzjXQRhg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
