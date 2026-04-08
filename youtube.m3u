@@ -552,7 +552,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775633341/ei/Xa_VafHRA_S0ir4P8uHcoAI/ip/135.232.232.82/id/8qwv9RdCQKU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLdcGOW9xHkgNb3ZqOMqPa2nOLGlHzopT6z0gz8fxrTqwqQS-3-qmJ3ojFKEuUqJtVsy7ycrKRT/spc/jlWavWIOYD5z432Z_MhUCrD9EUkgmjiz5eqWRxaqwqDoU3Zx4h9dDYBwQ_2iGJo6hoazoQ/vprv/1/go/1/ns/K87Bc5JXzUHo_qtCCfwqB6wU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869321/dover/11/n/G2c1BjXz3ERmRROf/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAMw3yA1FxIlrjpq4mTuxA7Sq969yWde_KwRnL-_0i7nqAiBAC7iondCETeHb9J0axynCGdPF88IPRYjWDR0hsyYSbQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Bossa Nova Covers Popular Songs
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
