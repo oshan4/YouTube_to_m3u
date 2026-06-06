@@ -186,7 +186,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1780794377/ei/qW8kaowf-4SW7w_Ht8yoAw/ip/20.57.198.165/id/qWf-FPFmVw0.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUe0-VkDM-PVXoL3AS0L4NRb96pz_dKayaMPcPKSyOiuKlwYO1ZoYHFnY56uep54puL9yUieSe4/spc/SQ-umpOIqnOKM3FLVGeLLuYruQ_n0q92JCL9GCwADrzUzgJ2MMxNmZ4VgpE52dV2F_6w7A/vprv/1/go/1/ns/TxoFLxcUeLdjS5_KwmesFSUV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/HcHDxw5A7M2ifrzjO/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgLcKPVjNZELzxxcFfb7EzYYct317T01QezzdhfMTzeRUCIF0rWpHmPayZ2XPS0qac9J7DYF0JC2F8V-tDr2KyzbT8/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
