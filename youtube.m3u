@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782548033/ei/4TE_aqXKJ8Dcy_sPicLc8AM/ip/20.3.221.181/id/1wECsnGZcfc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWbCwIXI0zPvghujufK2V_8DhYqOjPRE3VJMfmWtEAzyW_o9QhSx-nIzQKm-nDosmep6Gg5BpsC/spc/SQ-umkIw5NPdi2Hy9ZI4ZH40jeoo6TQe9jIPvLQpoyiAR0YmbnoKVLh0rfpjTb-lLeX9rQ/vprv/1/go/1/ns/DWF9xQ8tBFdiCfvQkM4GEj4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/NaYFxoRck1GuEuVDD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgUHGOWxqGSvi5mOZ0F9HoTha28MivTI32do9rMNsBLgsCIGO3a459f9mMtRRb2lQOArhFckuQ9xSGpo_o45GNj3iX/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Kairali News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
